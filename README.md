@@ -24,7 +24,14 @@ Proactive **Full Stack Developer** with **3+ years of experience** in web develo
 
 ### 💻 I Code In
 <p>
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo.png" alt="external-javascript-is-a-high-level-interpreted-programming-language-logo-shadow-tal-revivo"/> <img height="50" width="50"   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo"/>
+   <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 </p>
 
 ---
