@@ -40,7 +40,7 @@ Proactive **Full Stack Developer** with **3+ years of experience** in web develo
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/officel/48/java-eclipse.png"/>
-  <img src="https://img.icons8.com/color/48/postman.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 </p>
 
 ---
