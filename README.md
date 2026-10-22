@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m **Janani**
 
 **Software Engineer @ Cognizant**  
-Proactive **Full Stack Developer** with **3+ years of experience** in web development, passionate about building **scalable, secure, and high-performance applications**.
+Proactive **Full Stack Developer** with **4+ years of experience** in web development, passionate about building **scalable, secure, and high-performance applications**.
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
